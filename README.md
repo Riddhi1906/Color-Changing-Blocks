@@ -1,2 +1,2 @@
-# Color-Changing-Blocks
-Box that changes color
+# collisionAlgorithm
+Algorithm to detect collision between two objects
